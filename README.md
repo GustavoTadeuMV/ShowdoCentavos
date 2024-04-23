@@ -9,7 +9,7 @@ O jogo foi baseado no Show Do Milhão, só que fiz de uma forma diferente, em ve
 
 
 REGRA:
--O quiz tem 9 perguntas
+-O quiz tem 9 perguntas <br>
 -As perguntas de 1 ao 3 são fáceis, 4 ao 6 são médias e 7 ao 9 são difíceis.
 -A cada 30 segundos no tempo você perde 0,25 centavos.
 
