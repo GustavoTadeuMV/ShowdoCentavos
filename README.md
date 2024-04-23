@@ -20,4 +20,8 @@ Perguntas de 7 ao 9 valem 0,15 centavos<br>
 
 jogo:<br>
 "https://scratch.mit.edu/projects/1001905252/embed" 
-https://github.com/GustavoTadeuMV/ShowdoCentavos/assets/166770218/bfb7645a-1125-4e7d-8281-8b2e2ea4c46a
+
+
+
+https://github.com/GustavoTadeuMV/ShowdoCentavos/assets/166770218/835538fe-2fe3-4986-bf3d-74be9da111e2
+
