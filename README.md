@@ -19,7 +19,7 @@ Perguntas de 4 ao 6 valem 0,8 centavos<br>
 Perguntas de 7 ao 9 valem 0,15 centavos<br>
 
 jogo:<br>
-<iframe src="https://scratch.mit.edu/projects/1001905252/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+"https://scratch.mit.edu/projects/1001905252/embed" 
 
 
 
